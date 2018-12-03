@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/desakalijambe/precache-manifest.87ece0b382573b5d8e2ecf0fb0e8a744.js"
+  "/desakalijambe/precache-manifest.524515be9c4db38391234f1d20cf4e25.js"
 );
 
 workbox.clientsClaim();
